@@ -36,3 +36,39 @@ main{
     width: 100%;
     border-radius: 8px;
 }
+.nft-text{
+
+    display: flex;
+    padding-top: 14px;
+    gap: 14px;
+    flex-direction: column;
+    color: var(--app-SoftBlue);
+    font-weight: 300;
+
+}
+.dates {
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.dates section{
+    display: flex;
+}
+.date{
+    display: flex;
+    gap: 8px;
+}
+.date p{
+    width: 100%;
+}
+.eth{
+    
+    font-weight: 600;
+    color: var(--app-Cyan);
+}
+
+h2{
+    font-family: "Outfit", sans-serif;
+    color: var(--app-White);
+}
