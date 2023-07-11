@@ -1,0 +1,11 @@
+
+
+
+:root{
+    --app-SoftBlue: hsl(215, 51%, 70%);
+    --app-Cyan: hsl(178, 100%, 50%);
+    --app-VeryDarkBlue : hsl(217, 54%, 11%);
+    --app-VeryDarkBlue2: hsl(216, 50%, 16%);
+    --app-VeryDarkBlue3 : hsl(215, 32%, 27%);
+    --app-White: hsl(0, 0%, 100%)
+}
